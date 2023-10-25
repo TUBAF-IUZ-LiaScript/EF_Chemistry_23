@@ -12,15 +12,17 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 
 # Week 1
 
-[Basic](#basic)
-[Studies](#studies)
-[Future](#future)
-[Philosophical](#philosophical)
-[Random](#random)
-[Free time](#free-time)
-[Favourites](#favourites)
-[Past](#past)
-[Science](#science)
+> Here are some getting-to-know-you questions compiled by the first-semester chemistry students.
+
+- [Basic](#basic)
+- [Studies](#studies)
+- [Future](#future)
+- [Philosophical](#philosophical)
+- [Random](#random)
+- [Free time](#free-time)
+- [Favourites](#favourites)
+- [Past](#past)
+- [Science](#science)
 
 ## Basic
 
